@@ -13,7 +13,7 @@
 • Tabular data  
 • Uncertainty Quantification  
 • Statistical Model Evaluation  
-• AI & Ml for Financial Data  
+• AI & ML for Financial Data  
 • Trustworthy and Interpretable AI  
 • Mathematical Modeling  
 • Efficient and Creative Solutions  
@@ -24,7 +24,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="55%">
 
 <!-- Tech Stack Table -->
   
@@ -36,7 +36,7 @@
 | **Infra / MLOps**| ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="45%">
 
 <!-- Top Languages Card -->
 <b>💻 Top Languages by Codebase</b><br><br>
