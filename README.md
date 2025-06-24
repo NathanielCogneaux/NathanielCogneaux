@@ -10,7 +10,7 @@ AI Engineer | Quantitative Researcher
 • Time Series Forecasting  
 • Probabilistic Modeling  
 • Causality and Correlation Analysis  
-• Tabular data 
+• Tabular data
 • Uncertainty Quantification  
 • Statistical Model Evaluation  
 • AI & Ml for Financial Data  
