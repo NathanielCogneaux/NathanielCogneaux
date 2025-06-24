@@ -20,7 +20,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=NathanielCogneaux&show_icons=true&theme=default)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanielCogneaux&layout=compact&hide=jupyter%20notebook)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NathanielCogneaux)
+![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=NathanielCogneaux&theme=github)
+
 
 
 ## Tech Stack
