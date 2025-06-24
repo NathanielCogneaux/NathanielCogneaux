@@ -20,6 +20,9 @@
 
 ---
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanielCogneaux&layout=compact&hide=jupyter%20notebook)
+
+
 ## Tech Stack
 
 | Category         | Tools & Technologies |
