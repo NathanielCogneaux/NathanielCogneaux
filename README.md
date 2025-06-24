@@ -1,6 +1,7 @@
 # 👋 Welcome to my github profile
 
 AI Engineer | Quantitative Researcher 
+
 📍 Based in Seoul right now | E-7-1 Visa Holder
 
 ---
@@ -11,6 +12,7 @@ AI Engineer | Quantitative Researcher
 • Probabilistic Modeling  
 • Causality and Correlation Analysis  
 • Tabular data
+
 • Uncertainty Quantification  
 • Statistical Model Evaluation  
 • AI & Ml for Financial Data  
