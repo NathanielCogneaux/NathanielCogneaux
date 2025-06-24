@@ -1,7 +1,6 @@
 # 👋 Welcome to my github profile
 
-AI Engineer | Quantitative Researcher 
-
+AI Engineer | Quantitative Researcher  
 📍 Based in Seoul right now | E-7-1 Visa Holder
 
 ---
@@ -11,14 +10,13 @@ AI Engineer | Quantitative Researcher
 • Time Series Forecasting  
 • Probabilistic Modeling  
 • Causality and Correlation Analysis  
-• Tabular data
-
+• Tabular data  
 • Uncertainty Quantification  
 • Statistical Model Evaluation  
 • AI & Ml for Financial Data  
 • Trustworthy and Interpretable AI  
 • Mathematical Modeling  
-• Efficient and Creative Solutions
+• Efficient and Creative Solutions  
 
 ---
 
