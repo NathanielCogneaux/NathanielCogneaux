@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Welcome to my github profile
 
-<!--
-**NathanielCogneaux/NathanielCogneaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Quantitative Researcher 
+📍 Based in Seoul right now | E-7-1 Visa Holder
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+
+• Time Series Forecasting  
+• Probabilistic Modeling  
+• Causality and Correlation Analysis  
+• Tabular data 
+• Uncertainty Quantification  
+• Statistical Model Evaluation  
+• AI & Ml for Financial Data  
+• Trustworthy and Interpretable AI  
+• Mathematical Modeling  
+• Efficient and Creative Solutions
+
+---
+
+## Tech Stack
+
+| Category         | Tools & Technologies |
+|------------------|----------------------|
+| **Languages**    | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Frameworks**   | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat&logo=pytorch-lightning&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black) ![Optuna](https://img.shields.io/badge/Optuna-49B3CC?style=flat) |
+| **Tools**        | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white) |
+| **Infra / MLOps**| ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/nathaniel-cogneaux/)
+- [View My Resume](./Resume_Nathaniel_Cogneaux.pdf)
