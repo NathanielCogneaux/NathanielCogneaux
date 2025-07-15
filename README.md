@@ -9,6 +9,7 @@
 
 • Time Series Forecasting  
 • Dynamic pricing & yield management 
+
 • Probabilistic Modeling  
 • Causality and Correlation Analysis  
 • Tabular data  
