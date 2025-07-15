@@ -16,7 +16,6 @@
 • AI & ML for Financial Data  
 • Trustworthy and Interpretable AI  
 • Mathematical Modeling  
-• Efficient and Creative Solutions  
 • Dynamic pricing & yield management 
 
 ---
