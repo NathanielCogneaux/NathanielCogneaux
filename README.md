@@ -8,8 +8,6 @@
 ## Current Interests
 
 • Time Series Forecasting  
-• Dynamic pricing & yield management 
-
 • Probabilistic Modeling  
 • Causality and Correlation Analysis  
 • Tabular data  
@@ -19,6 +17,7 @@
 • Trustworthy and Interpretable AI  
 • Mathematical Modeling  
 • Efficient and Creative Solutions  
+• Dynamic pricing & yield management 
 
 ---
 
