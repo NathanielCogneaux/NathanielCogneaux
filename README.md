@@ -1,6 +1,6 @@
 # 👋 Welcome to my github profile
 
-💼 AI Engineer | Quantitative Researcher  
+💼 AI Engineer | Time‑Series MLOps | Quant Research  
 📍 Based in Seoul right now | E-7-1 Visa Holder
 
 ---
