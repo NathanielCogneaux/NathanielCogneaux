@@ -16,7 +16,7 @@
 • AI & ML for Financial Data  
 • Trustworthy and Interpretable AI  
 • Mathematical Modeling  
-• Dynamic pricing & yield management 
+• Dynamic pricing & yield management  
 • Astrophysics
 
 ---
