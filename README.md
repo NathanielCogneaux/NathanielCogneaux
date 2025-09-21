@@ -52,4 +52,3 @@
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/nathaniel-cogneaux/)
-- [View My Resume](./Resume_Nathaniel_Cogneaux.pdf)
